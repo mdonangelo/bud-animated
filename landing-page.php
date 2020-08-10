@@ -204,22 +204,28 @@
     <svg id="wave_top" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1363.08 117.16"><defs><style>.cls-1{fill:#f7f7f7;}.cls-2{fill:#fff;}</style></defs><path class="cls-1" d="M1156.24,117.16c2,0,.76-3.33-1-4.37C1122.81,93.08,963.75,0,856.91,0,737.42,0,626.61,74.12,524.48,74.12S385.08,9.56,249.25,9.56C134.58,9.56,31,86.25,1.47,110.14a4,4,0,0,0,2.49,7Z"/><path class="cls-2" d="M172.26,117.16s54.92-15,125.33-47.83S415,20.26,486.81,20.26s171.83,54.4,290.85,54.4,175.2-62.59,312.9-62.59,272.52,105.09,272.52,105.09Z"/></svg>
 </section>
 
-<section id="conteudo-estrategia">
+<section id="conteudo-estrategia" class="similar-sections-content">
     <div class="global">
         <div class="content">
             <h2>Como anda a jornada da estratégia da sua empresa?</h2>
             <p>Uma boa estratégia é aquela que acontece. Acreditamos que a execução vem com o engajamento das pessoas de times, áreas e empresas. Por isso, nosso propósito é transformar a jornada da estratégia para que ela seja mais real, inspiradora e gratificante para todos.</p>
-            <a href="#">BAIXE NOSSO E-BOOK GRATUITO</a>
+            <a href="#" id="link-ebook">BAIXE NOSSO E-BOOK GRATUITO</a>
         </div>
 
-        <div class="image"></div>
+        <div class="images" style="text-align:right;">
+            <img src="./assets/images/ebook.png" alt="">
+        </div>
     </div>
 </section>
 
-<section id="fale-conosco">
+<section id="fale-conosco" class="similar-sections-content">
     <div class="global">
-        <div class="image">
-
+        <div class="images">
+            <img id="purple-chat" class="images-floating floating-animate" src="./assets/images/purple-chat.png" alt="">
+            <img id="orange-chat" class="images-floating floating-animate" src="./assets/images/orange-chat.png" alt="">
+            <img id="circle-purple-3" class="images-floating floating-animate" src="./assets/images/3d-circle-purple.png" alt="">
+            <img id="circle-grey-1" class="images-floating floating-animate" src="./assets/images/3d-circle-grey.png" alt="">
+            <img id="usuario-contato" class="images-floating floating-animate" src="./assets/images/usuario-estrategia-2.png" alt="">
         </div>
 
         <div class="content">
